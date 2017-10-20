@@ -16,6 +16,13 @@ Mapbox Gris
 http://betaserver.icgc.cat/vectortiles/comparador/mtc25mgdb_mapbox.html#13.5/41.4093/2.0084
 
 
+Mamata
+------
+http://betaserver.icgc.cat/vectortiles/comparador/mtc25mgdb_mamata.html#13.5/41.4093/2.0084
+
+
+
+
 Comparador de estilos
 ---------------------
 
